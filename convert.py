@@ -44,7 +44,7 @@ def display(buf_a, buf_b):
 	image.show()
 
 
-with open("./inky_spi.csv") as file:
+with open("./example.csv") as file:
     reader = csv.reader(file)
     header = next(reader)
     in_packet = False
