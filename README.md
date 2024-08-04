@@ -2,7 +2,7 @@
 
 A short script that converts the Pimoroni Inky Phat signals to frames (reversed from the behavior of the [official library](https://github.com/pimoroni/inky)).
 
-Written during CrewCTF 2024 for the Sniff Two challenge.
+Written during CrewCTF 2024 for the Sniff Two challenge, so it's not that perfect, at least until I need it another time.
 
 Note: This would work for [Waveshare Inch E-Ink Display pHAT](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT), with some modification cause they have similar protocols.
 
